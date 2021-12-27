@@ -1,0 +1,4 @@
+PIMA Diabetes Dataset
+https://www.kaggle.com/tariqmhmd5/pima-diabetes-dataset
+Forest Fire Images
+https://www.kaggle.com/mohnishsaiprasad/forest-fire-images?fbclid=IwAR1dkCKT3AGvOKbH1Z0jbj7ueb0dK6v85ufSlpulwT2-ytc-KTcRyFO2SPI
